@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
-  "url": "https://github.com/macafj7/FEM-update/releases/download/v0.3.0/FEM-v0.3.0.apk",
-  "notas": "Rueda del ciclo nueva: deslizá el dedo por el anillo para ver cualquier día. El centro te cuenta qué pasa ese día y en qué fase estás, y abajo ves lo que registraste. Con animaciones."
+  "version": "0.3.1",
+  "url": "https://github.com/macafj7/FEM-update/releases/download/v0.3.1/FEM-v0.3.1.apk",
+  "notas": "Las siglas ahora dicen qué significan (por ejemplo SPM: síndrome premenstrual) y las unidades están escritas completas. En Vida sexual se suma Eyaculación adentro. En Medicamentos y Suplementos podés tocar + Otro y escribir el tuyo: queda guardado para la próxima."
 }
