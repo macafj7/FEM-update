@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
-  "url": "https://github.com/macafj7/FEM-update/releases/download/v0.2.0/FEM-v0.2.0.apk",
-  "notas": "¡La app ya funciona! Configuración inicial, inicio con tu día del ciclo y predicciones, registro diario de síntomas, calendario con edición de días de período, análisis de tus ciclos y ajustes (tema, primer día de la semana, qué registrar). Todo se guarda en tu teléfono."
+  "version": "0.2.1",
+  "url": "https://github.com/macafj7/FEM-update/releases/download/v0.2.1/FEM-v0.2.1.apk",
+  "notas": "Los días fértiles y la ovulación ahora se ven en lavanda, para que no se confundan con el período."
 }
