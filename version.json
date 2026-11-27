@@ -1,5 +1,5 @@
 {
-  "version": "0.2.3",
-  "url": "https://github.com/macafj7/FEM-update/releases/download/v0.2.3/FEM-v0.2.3.apk",
-  "notas": "Nuevo: podés indicar que tu ciclo y tu período varían de un mes a otro (entre X e Y días), desde Personalizá tu ciclo. El próximo período se muestra como rango. En el registro diario hay una opción Sin sangrado."
+  "version": "0.2.4",
+  "url": "https://github.com/macafj7/FEM-update/releases/download/v0.2.4/FEM-v0.2.4.apk",
+  "notas": "Registro diario: presión arterial (máxima y mínima), temperatura del día con aviso de fiebre, dolor de cintura y nuca, y una explicación más clara de cómo marcar la intensidad. Ahora podés tocar cualquier número para escribirlo."
 }
