@@ -1,5 +1,5 @@
 {
-  "version": "0.2.2",
-  "url": "https://github.com/macafj7/FEM-update/releases/download/v0.2.2/FEM-v0.2.2.apk",
-  "notas": "La app ahora busca actualizaciones también cuando volvés a abrirla desde segundo plano. Además deja de pedir permisos de fotos y audio que no usaba."
+  "version": "0.2.3",
+  "url": "https://github.com/macafj7/FEM-update/releases/download/v0.2.3/FEM-v0.2.3.apk",
+  "notas": "Nuevo: podés indicar que tu ciclo y tu período varían de un mes a otro (entre X e Y días), desde Personalizá tu ciclo. El próximo período se muestra como rango. En el registro diario hay una opción Sin sangrado."
 }
